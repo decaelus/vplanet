@@ -1,0 +1,1 @@
+.. include:: ../../examples/spinbody/README.rst

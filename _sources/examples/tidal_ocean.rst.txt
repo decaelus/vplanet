@@ -1,0 +1,1 @@
+.. include:: ../../examples/tidal_ocean/README.rst

@@ -1,0 +1,1 @@
+.. include:: ../../examples/cbp_dyn/README.rst

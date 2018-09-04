@@ -1,0 +1,1 @@
+.. include:: ../../examples/stellar_atmesc/README.rst

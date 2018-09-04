@@ -1,0 +1,1 @@
+.. include:: ../../examples/binary_kepler34/README.rst

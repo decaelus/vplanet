@@ -1,0 +1,15 @@
+Bugs
+====
+
+Scripts to reproduce current major bugs in **vplanet**.
+
+.. toctree::
+   :maxdepth: 1
+
+
+
+   bugs/oceanlost
+   bugs/onestar
+   bugs/twins
+   bugs/period
+   bugs/satideperts

@@ -1,0 +1,1 @@
+.. include:: ../../examples/galh_test/README.rst

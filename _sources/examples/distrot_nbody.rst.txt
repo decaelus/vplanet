@@ -1,0 +1,1 @@
+.. include:: ../../examples/distrot_nbody/README.rst
